@@ -51,5 +51,3 @@ Punto_Optimo, Valor_Punto_Optimo = Metodo_Grafico(a, c, n, minimizar, z)
 * Si no existe solución al programa lineal (ósea, no existe una región de soluciones factibles), el programa regresa False y 0
 * Si la region de soluciones factibles, no esta encerrada por un polígono, esta no será sombreada, sin embargo, si se calculara el punto optimo de forma correcta
 
-``` ## Pagina 
-``` https://pi-q2.herokuapp.com/ 
